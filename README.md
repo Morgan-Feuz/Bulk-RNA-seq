@@ -6,3 +6,4 @@
 + [Check RNA-seq Strandness with RSeQC](https://github.com/Morgan-Feuz/RSeQC)
 + [Align RNA-seq Reads to a Reference Genome with HISAT2](https://github.com/Morgan-Feuz/HISAT2-alignment)
 + [Get Counts and Create a Counts Matrix with featureCounts](https://github.com/Morgan-Feuz/featureCounts)
++ [Gene Set Overlap Significance Testing in R](https://github.com/Morgan-Feuz/GeneSetOverlapTesting)
